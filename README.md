@@ -2,7 +2,7 @@
 A bash file with option for using multiples tools and automation for hacking and collecting information of the target organisation.
 
 
-#Tools used
+# Tools used
 1) Subfinder
 2) amass
 3) gf
@@ -14,7 +14,7 @@ A bash file with option for using multiples tools and automation for hacking and
 9) httpx
 10) crt.sh
 
-#Installation
+# Installation
 clone the repository in your local linux system
 git clone https://github.com/idiotboxai/vibe
 
