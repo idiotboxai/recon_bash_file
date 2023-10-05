@@ -16,10 +16,10 @@ A bash file with option for using multiples tools and automation for hacking and
 
 #Installation
 clone the repository in your local linux system
-git clone https://github.com/idiotboxai/recon_bash_file
+git clone https://github.com/idiotboxai/vibe
 
 change directory
-cd recon_bash_file
+cd vibe
 
 permission for execution:-
 chmod +x run.sh
