@@ -13,6 +13,8 @@ A bash file with option for using multiples tools and automation for hacking and
 8) nmap
 9) httpx
 10) crt.sh
+11) tee
+    
 
 # Installation
 ### clone the repository in your local linux system <br>
