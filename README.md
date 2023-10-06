@@ -17,6 +17,7 @@ A bash file with option for using multiples tools and automation for hacking and
     
 
 # Installation
+
 ### clone the repository in your local linux system <br>
 
 ```git
@@ -35,6 +36,7 @@ chmod +x run.sh
 ./run.sh
 ```
 
-
+# Config 
+Config the file by changing the directory path for <b>dirsearch</b> and <b>crt.sh</b> file
 
 
