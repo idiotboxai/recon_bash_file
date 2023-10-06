@@ -32,7 +32,7 @@ chmod +x run.sh
 ```bash
 ./run.sh
 ```
-bash run.sh
+
 
 
 
