@@ -45,3 +45,9 @@ chmod +x run.sh
 Config the file by changing the directory path for <b>dirsearch</b>  file<br>
 i.e python3 /dict/dict -l /dict/dict/subdomain.txt -t 100 #add here your directory 
 
+
+# Warning
+ This code was originally created for personal use, it generates a substantial amount of traffic, please use with caution. Also use proxies or vpns to avoiding blaclist of your ip or getting banned by cloudflare or waf service.
+
+
+
