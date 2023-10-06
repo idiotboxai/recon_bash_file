@@ -15,16 +15,16 @@ A bash file with option for using multiples tools and automation for hacking and
 10) crt.sh
 
 # Installation
-clone the repository in your local linux system <br>
+### clone the repository in your local linux system <br>
 
 ```git
 git clone https://github.com/idiotboxai/vibe
 ```
-change directory
+### change directory
 ```bash
 cd vibe
 ```
-permission for execution:-
+### permission for execution:-
 ```bash
 chmod +x run.sh
 ```
