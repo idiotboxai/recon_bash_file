@@ -42,6 +42,6 @@ chmod +x run.sh
 ```
 
 # Config 
-Config the file by changing the directory path for <b>dirsearch</b>  file
+Config the file by changing the directory path for <b>dirsearch</b>  file<br>
 i.e python3 /dict/dict -l /dict/dict/subdomain.txt -t 100 #add here your directory 
 
