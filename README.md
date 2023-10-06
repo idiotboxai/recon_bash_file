@@ -1,7 +1,10 @@
 # VIBE - RECON BASH AUTOMATION TOOL
 A bash file with option for using multiples tools and automation for hacking and collecting information of the target organisation.
 
-![image](https://github.com/idiotboxai/vibe/assets/83394182/a8a236c7-d45f-48cf-9bcd-fb2e364e21ea)
+<!--![image](https://github.com/idiotboxai/vibe/assets/83394182/a8a236c7-d45f-48cf-9bcd-fb2e364e21ea)-->
+![Screenshot_20231006_102745](https://github.com/idiotboxai/vibe/assets/83394182/a07f596b-72de-49e8-803d-e746c0248f03)
+
+
 
 # Tools used
 1) Subfinder
