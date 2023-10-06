@@ -1,4 +1,4 @@
-# VIBE - RECON BASH TOOL FOR HACKERS
+# VIBE - RECON BASH Tool
 A bash file with option for using multiples tools and automation for hacking and collecting information of the target organisation.
 
 
