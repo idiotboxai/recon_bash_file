@@ -21,13 +21,17 @@ clone the repository in your local linux system <br>
 git clone https://github.com/idiotboxai/vibe
 ```
 change directory
+```bash
 cd vibe
-
+```
 permission for execution:-
+```bash
 chmod +x run.sh
-
-run it using:
+```
+### run it using:
+```bash
 ./run.sh
+```
 bash run.sh
 
 
