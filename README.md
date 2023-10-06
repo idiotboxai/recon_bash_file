@@ -2,14 +2,6 @@
 A bash file with option for using multiples tools and automation for hacking and collecting information of the target organisation.
 
 <!--![image](https://github.com/idiotboxai/vibe/assets/83394182/a8a236c7-d45f-48cf-9bcd-fb2e364e21ea)-->
- _   _ ___________ _____
-| | | |_   _| ___ \  ___|
-| | | | | | | |_/ / |__
-| | | | | | | ___ \  __|
-\ \_/ /_| |_| |_/ / |___
- \___/ \___/\____/\____/
-
-              - a recon tool bash script
 
 
 ![vibe](https://github.com/idiotboxai/vibe/assets/83394182/e092e63e-b1a1-4838-99a8-708523b6c98b)
